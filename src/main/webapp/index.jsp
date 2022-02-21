@@ -12,7 +12,7 @@
 
 <body>
     <div class="container mt-4">
-        <h2>&iexcl;Hola mundo&excl;</h2>
+        <h2>&iexcl;Hola mundoo&excl;</h2>
         <hr />
 
         <p>Esta es mi primer aplicaci&oacute;n en Azure App Service <code>:)</code></p>
